@@ -1,12 +1,7 @@
 <h1 align="center">Hola 👋 , me llamo Mallqui Rivera Paul</h1><h3 align="center">Desarrollador web apasionado en generar experiencias nuevas.</h3>
 
-- 💬 **Desarrollador en busca de nuevas oportunidades y que busca superarse día a día**
-- 🌱 **Nodejs, Nextjs**
--  📫 Me encuentras con **mallquiriverap@gmail.com**
-
-- Tengo mucha experiencia en el desarrollo de aplicaciones web, pero estoy en busca de pertenecer a un equipo de trabajo
-
-- 🌱 📄 **Soy una persona alegre y con mucho carisma que le gusta trabajar en equipo**
+- 💬 **Desarrollador de aplicaciones web con mucha experiencia pero en busca de encontrar su primer equipo de trabajo, muy alegre y carismatico que es capaz de escuchar a cada miembro de su equipo, que cualquier problema que encuentro no lo sabre pero no parare hasta encontrar la solucion**
+-  📫 Me encuentras como **mallquiriverap@gmail.com**
 
 <h3 align="left">Conéctate conmigo: </h3>
 <p align="left"><a href="https://github.com/pauldev24" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="pauldev24" height="30" width="40" /></a>

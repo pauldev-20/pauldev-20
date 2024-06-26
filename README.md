@@ -1,4 +1,4 @@
-<h2 align="left">Hola 👋 , me llamo Paul Mallqui Rivera</h2>
+<h1 align="center">Hola 👋 , me llamo Paul Mallqui Rivera</h1>
 
 ###
 

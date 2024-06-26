@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">¿Quieres ver crecer tu negocio con soluciones tecnológicas? ¿Quieres tener tu propia página web pero no sabes por dónde empezar? ¿Estás buscando a alguien que pueda crear el sitio web perfecto para ti?<br><br>¿Te surgen estas preguntas? Así que estoy aquí para ayudar.<br><br>Me desarrollo en la creación de sitios web con ReactJS y Laravel u otras tecnologías que se adapten a tus necesidades que ayuden a que tu negocio crezca. El camino siempre es complicado, por eso siempre busco el apoyo de los equipos con los que tengo que trabajar para darte lo que realmente necesitas.<br><br>Ayudo a personas como la tuya a crear el sitio web perfecto para su negocio. Tenía experiencia en el desarrollo de proyectos personales, sociales y pequeñas empresas, siempre con la ambición de lograr más. Me encantaría hacer lo mismo por ti.</p>
+<p align="left">¿Quieres ver crecer tu negocio con soluciones tecnológicas? ¿Quieres tener tu propia página web pero no sabes por dónde empezar? ¿Estás buscando a alguien que pueda crear el sitio web perfecto para ti?<br><br>¿Te surgen estas preguntas? Así que estoy aquí para ayudar.<br><br>Me desarrollo en la creación de sitios web con ReactJS y Laravel u otras tecnologías que se adapten a tus necesidades que ayuden a que tu negocio crezca. El camino siempre es complicado, por eso siempre busco el apoyo de equipos con los que tengo que trabajar para darte lo que realmente necesitas.<br><br>Ayudo a personas como tú a crear el sitio web perfecto para su negocio. Tengo experiencia en el desarrollo de proyectos personales, sociales y pequeñas empresas, siempre con la ambición de lograr más. Me encantaría hacer lo mismo por ti.</p>
 
 ###
 

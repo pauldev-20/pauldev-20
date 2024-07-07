@@ -137,17 +137,17 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=pauldev24&locale=es&mode=daily&theme=blue-green&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="200" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=pauldev-20&locale=es&mode=daily&theme=blue-green&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D" height="200" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pauldev24&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pauldev-20&locale=es&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=blue-green&hide_border=false&order=2" height="180" alt="languages graph"  />
 </div>
 
 ###
 
-<img src="https://raw.githubusercontent.com/pauldev24/pauldev24/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/pauldev-20/pauldev-20/output/snake.svg" alt="Snake animation" />
 
 ###
